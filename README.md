@@ -28,7 +28,8 @@ print("Swapped values are: {} {}".format(surya,vijay))
 ```
 
 ## OUTPUT: 
-![image](https://github.com/Mahalakshmi230/Swapping-two-values/assets/149365324/466862ba-fd85-41a4-8bc4-cac9d82363c1)
+![image](https://github.com/Mahalakshmi230/Swapping-two-values/assets/149365324/745249cd-3ac7-442c-866a-3716cb28781a)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
