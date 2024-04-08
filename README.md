@@ -19,9 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Program for swapping of two variables
-#Developed by: Mahalakshmi R
-#Register Number: 212223230116
 surya=input()
 vijay=input()
 temp=surya
